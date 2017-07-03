@@ -2,14 +2,17 @@
 An example of CRUD APIs utilising serverless architecture.
 
 # setup:
--Create AWSaccount
+-Create AWS account
 
 -Create IAM user
 
+-Install python with pip
+
 -Install AWS CLI
- >install python with pip
  >via pip, run : "pip install awscli"
- >run : "aws configure"
+ 
+-Configure AWS
+ >run : "aws configure" . 
  >insert access key & secret access key
  
 -Create DynamoDB table
