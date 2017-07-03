@@ -1,5 +1,5 @@
 # serverless-notes-api
-An example of CRUD APIs utilising serverless architecture.
+An example of CRUD APIs utilising serverless architecture. This is a simple note taking app.
 
 # setup:
 -Create AWS account
